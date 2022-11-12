@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body
+{
+    background-image: url('image/Delivery.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+};
+
+#panda{
+    border-radius: 50%;
+}
